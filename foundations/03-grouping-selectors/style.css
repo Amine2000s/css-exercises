@@ -1,0 +1,13 @@
+button{
+    border: 2px solid;
+}
+
+#bt1 {
+    color: white;
+    background-color: black;
+}
+
+#bt2 {
+    color : black ;
+    background-color: yellow;
+}

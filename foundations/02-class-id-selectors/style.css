@@ -1,0 +1,20 @@
+p {
+    background-color: lightcoral;
+    font: Verdana, DejaVu, sans-serif;
+}
+
+p.np {
+    font-size: 24px;
+}
+
+#anoterid  {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#diiv {
+    font-size: 36px;
+
+    color: blue ;
+}
